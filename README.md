@@ -40,3 +40,10 @@ c. Remix IDE (not a python module)- For writing and editing of solidity formatte
 
 
 # Demontration of Use
+
+Successfull deployment:
+![sucessfull deployment](https://github.com/shangfii/JointAccountsWithSolodity/blob/main/Execution_Results/contractDeployed.png)
+
+Contract Deployment function details 
+![Contract functions details](https://github.com/shangfii/JointAccountsWithSolodity/blob/main/Execution_Results/deployedContractFunctoinDetails.png)
+
