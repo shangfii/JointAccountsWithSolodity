@@ -5,15 +5,15 @@ These addresses will be able to control a joint savings account.
 
 Table of Contents
 
-*Joint Savings Account Overview
+*[Joint Savings Account Overview](https://github.com/shangfii/JointAccountsWithSolodity#joint-savings-account-overview)
 
-*Technologies
+*[Technologies](https://github.com/shangfii/JointAccountsWithSolodity#technologies)
 
-*Installation/ Usage Guide
+*[Installation/ Usage Guide](https://github.com/shangfii/JointAccountsWithSolodity#technologies)
 
-*Examples
+*[Examples](https://github.com/shangfii/JointAccountsWithSolodity#demontration-of-use)
 
-*Contributors
+*[Contributors]()
 
 *License
 
@@ -71,4 +71,6 @@ Sending 5 eth  account 1
 ![5 Eth to Account 1](https://github.com/shangfii/JointAccountsWithSolodity/blob/main/Execution_Results/5Ethto1.gif)
 
 
-
+#Contributiors 
+Shangfii
+shang@shangfii.com
