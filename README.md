@@ -3,7 +3,7 @@
 Automate the creation of joint savings accounts, create a Solidity smart contract that accepts two user addresses.
 These addresses will be able to control a joint savings account.
 
-Table of Contents
+# Table of Contents
 
 *[Joint Savings Account Overview](https://github.com/shangfii/JointAccountsWithSolodity#joint-savings-account-overview)
 
@@ -34,9 +34,9 @@ a. python: This project makes great use of python version 3.8.5 with the followi
 4. web3.py - A Python library for connecting and performing operations on Ethereum-based blockchain.
 
 
-b. Solidity -  A programing language to create smart contracts and implement the joints saving application to work with ether.
+b.  Solidity -  A programing language to create smart contracts and implement the joints saving application to work with ether.
 
-c. Remix IDE (not a python module)- For writing and editing of solidity formatted code, and launched the our application.
+c.  Remix IDE (not a python module)- For writing and editing of solidity formatted code, and launched the our application.
 
 
 # Demontration of Use
