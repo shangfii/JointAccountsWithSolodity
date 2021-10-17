@@ -15,7 +15,7 @@ These addresses will be able to control a joint savings account.
 
 *[Contributors](https://github.com/shangfii/JointAccountsWithSolodity/blob/main/README.md#contributors)
 
-* [Conclusion](https://github.com/shangfii/JointAccountsWithSolodity/blob/main/README.md#contributors)
+*[Conclusion](https://github.com/shangfii/JointAccountsWithSolodity/blob/main/README.md#contributors)
 
 *[License](https://github.com/shangfii/JointAccountsWithSolodity/blob/main/LICENSE)
 
