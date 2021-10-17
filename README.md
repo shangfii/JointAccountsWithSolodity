@@ -42,15 +42,18 @@ c. Remix IDE (not a python module)- For writing and editing of solidity formatte
 # Demontration of Use
 
 Successfull deployment:
+
 ![sucessfull deployment](https://github.com/shangfii/JointAccountsWithSolodity/blob/main/Execution_Results/contractDeployed.png)
 
 Contract Deployment function details 
+
 ![Contract functions details](https://github.com/shangfii/JointAccountsWithSolodity/blob/main/Execution_Results/deployedContractFunctoinDetails.png)
 
 Adding 1 Eth to the balance on the account
+
 ![Adding 1Eth to the balance](https://github.com/shangfii/JointAccountsWithSolodity/blob/main/Execution_Results/Adding1Eth.gif)
 
-Adding 5Eth to the balance on the account
+Adding 5 Eth to the balance on the account
 
 ![5Eth Added to the account](https://github.com/shangfii/JointAccountsWithSolodity/blob/main/Execution_Results/5EthDeposit.gif)
 
