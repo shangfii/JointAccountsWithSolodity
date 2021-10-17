@@ -66,7 +66,7 @@ Sending 10 Eth to account 2
 ![10 Eth Send to Account 2](https://github.com/shangfii/JointAccountsWithSolodity/blob/main/Execution_Results/10Ethto2.gif)
 
 
-Adding 5 eth  account 1
+Sending 5 eth  account 1
 
 ![5 Eth to Account 1](https://github.com/shangfii/JointAccountsWithSolodity/blob/main/Execution_Results/5Ethto1.gif)
 
