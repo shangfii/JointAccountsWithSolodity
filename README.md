@@ -15,7 +15,7 @@ Table of Contents
 
 *[Contributors](https://github.com/shangfii/JointAccountsWithSolodity/blob/main/README.md#contributors)
 
-*License
+*[License](https://github.com/shangfii/JointAccountsWithSolodity/blob/main/README.md#contributors)
 
 
 # Joint Savings Account Overview
