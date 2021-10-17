@@ -58,7 +58,7 @@ Adding 10 Eth to the account ballance
 
 ![10 Eth added](https://github.com/shangfii/JointAccountsWithSolodity/blob/main/Execution_Results/10EthDeposit.gif)
 
-![5 Eth Send to Account 1]
+![10 Eth Send to Account 2](https://github.com/shangfii/JointAccountsWithSolodity/blob/main/Execution_Results/10Ethto2.gif)
 
 
 
