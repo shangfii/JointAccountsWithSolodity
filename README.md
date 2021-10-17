@@ -71,6 +71,11 @@ Sending 5 eth  account 1
 ![5 Eth to Account 1](https://github.com/shangfii/JointAccountsWithSolodity/blob/main/Execution_Results/5Ethto1.gif)
 
 
+# Conclusion
+
+With this program we are able to creat a joint saving account in which two people with can save money and withdraw as needed, with this idea we could expand to add more people or create additional rules to make sure people only take what they deposited and pay interest if they take more. It is a cool idea that will run on the Etherium block chain for ever! 
+
+
 # Contributors
 
 Shangfii
