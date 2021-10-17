@@ -71,6 +71,7 @@ Sending 5 eth  account 1
 ![5 Eth to Account 1](https://github.com/shangfii/JointAccountsWithSolodity/blob/main/Execution_Results/5Ethto1.gif)
 
 
-#Contributiors 
+# Contributors
+
 Shangfii
 shang@shangfii.com
